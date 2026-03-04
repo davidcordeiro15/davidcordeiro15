@@ -2,9 +2,9 @@
 <h3 align="center">Amante da tecnologia desde pequeno!👦</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davidcordeiro15&show_icons=true&theme=transparent" alt="David's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=davidcordeiro15&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="David's GitHub stats"/>
 </p>
-
+![Anurag's GitHub stats]()
 <h3 align="center">Onde falar comigo:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/david-cordeiro-b89402301/" target="blank">
